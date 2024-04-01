@@ -1,0 +1,16 @@
+{
+  "name": "npm-module-without-postinstall",
+  "version": "1.0.0",
+  "main":"index.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
